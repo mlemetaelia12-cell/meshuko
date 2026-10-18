@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # MESHUKO'S S AND G FARM — Sheep & Goat Record Keeping
 
 A responsive farm website plus a private owner/admin workspace for livestock groups, opening stock, daily stock reports, internal/external transfers, live running quantities and movement history. Built with JavaScript/TypeScript, Next.js App Router and Neon PostgreSQL.
@@ -38,6 +40,7 @@ A responsive farm website plus a private owner/admin workspace for livestock gro
    ```
 
    Paste the result into `SESSION_SECRET`.
+
 7. Open a terminal in the project folder and run:
 
    ```powershell
@@ -134,4 +137,4 @@ npm run db:migrate # Apply PostgreSQL schema using DATABASE_URL in .env
 - `public/favicon.svg` — browser favicon
 - `public/herd-illustration.svg` — local original vector illustration used in the public page and dashboard
 
-The site is designed mobile-first and supports desktop, tablet and mobile breakpoints. The public WhatsApp button opens the farm's chat at `+255 783 872 819`; developer support is branded as Brell.
+The site is designed mobile-first and supports desktop, tablet and mobile breakpoints. The public WhatsApp button opens the farm's chat at `+255 783 872 819`; developer support is branded as Brell
